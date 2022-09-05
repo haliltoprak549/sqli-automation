@@ -128,7 +128,7 @@ def find_name_of_table(url, table_index, payload_list, char_position):
         )
 
 
-URL = "http://127.0.0.1/hello/login.php"
+URL = "http://127.0.0.1/vulnerable-pages/login.php"
 
 # verdigimiz case dogru oldugunda "giris bilgileriniz hatali" diyecek
 
