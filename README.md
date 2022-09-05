@@ -1,5 +1,5 @@
 # sqli-automation
-Web exploit automation with python.
+SQL injection automation with python.
 
 Extracts file names out of MySQL database using Blind SQL attacks with binary search.
 
